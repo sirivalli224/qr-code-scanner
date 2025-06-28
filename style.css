@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  color: #333;
+}
+
+#reader {
+  width: 300px;
+  margin: 20px auto;
+  border: 2px solid #ccc;
+  padding: 10px;
+  background: #fff;
+}
+
+#result {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+input[type="file"] {
+  margin-top: 15px;
+}
